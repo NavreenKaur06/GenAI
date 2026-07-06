@@ -1,0 +1,25 @@
+Day 5 – [30th June 2026]
+TOPICS COVERED (LOOPS, FUNCTIONS AND MODULES IN PYTHON)
+Loops
+for i in range(5):
+    print(i)
+
+while loop example discussed.
+
+Functions
+def greet():
+    print("Welcome")
+
+Modules
+import math
+print(math.sqrt(25))
+
+Pseudo Code
+Create Function
+Accept Input
+Return Result
+
+TOOLS USED
+• Python
+• VS Code
+• Google Colab
