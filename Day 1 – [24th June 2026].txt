@@ -1,0 +1,31 @@
+Day 1 – [24th June 2026]
+TOPICS COVERED (INTRODUCTION TO ARTIFICIAL INTELLIGENCE AND GENERATIVE AI)
+Introduction to Artificial Intelligence (AI)
+Artificial Intelligence (AI) is a branch of computer science that develops systems capable of performing tasks requiring human intelligence such as learning, reasoning, decision-making, language understanding and image recognition.
+
+Applications of AI
+• Virtual Assistants
+• Recommendation Systems
+• Healthcare
+• Autonomous Vehicles
+• Fraud Detection
+
+Types of AI
+• Narrow AI
+• General AI
+• Super AI
+
+What is Generative AI?
+Generative AI creates new content such as text, images, audio, video and code using trained AI models.
+
+AI Workflow
+Input Data → Processing → Model Training → Prediction/Generation → Output
+
+Practical Activity
+Explored ChatGPT and generated responses using different prompts.
+
+TOOLS USED
+• ChatGPT
+• Google Chrome
+• Visual Studio Code (VS Code)
+• Google Colab
