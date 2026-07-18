@@ -1,0 +1,20 @@
+Day 16 – [15th July 2026]
+TOPICS COVERED (EMBEDDINGS AND VECTOR REPRESENTATION)
+Introduction
+
+This session covered Embeddings and Vector Representation. Concepts, workflow, applications, examples, pseudocode and practical activities were discussed.
+
+Pseudo Workflow:
+Input → Processing → Model → Output
+
+Practical Activity:
+Performed hands-on exercises and discussed real-world applications.
+
+Learning Outcome:
+Developed understanding of Embeddings and Vector Representation and its role in Generative AI.
+
+TOOLS USED
+• Python
+• Google Colab
+• Visual Studio Code
+• ChatGPT/Hugging Face (where applicable)

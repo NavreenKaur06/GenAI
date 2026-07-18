@@ -1,0 +1,20 @@
+Day 14 – [13th July 2026]
+TOPICS COVERED (INTRODUCTION TO TRANSFORMERS)
+Introduction
+
+This session covered Introduction to Transformers. Concepts, workflow, applications, examples, pseudocode and practical activities were discussed.
+
+Pseudo Workflow:
+Input → Processing → Model → Output
+
+Practical Activity:
+Performed hands-on exercises and discussed real-world applications.
+
+Learning Outcome:
+Developed understanding of Introduction to Transformers and its role in Generative AI.
+
+TOOLS USED
+• Python
+• Google Colab
+• Visual Studio Code
+• ChatGPT/Hugging Face (where applicable)

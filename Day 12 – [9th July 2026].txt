@@ -1,0 +1,20 @@
+Day 12 – [9th July 2026]
+TOPICS COVERED (LINEAR REGRESSION AND INTRODUCTION TO NEURAL NETWORKS)
+Introduction
+
+This session covered Linear Regression and Introduction to Neural Networks. Concepts, workflow, applications, examples, pseudocode and practical activities were discussed.
+
+Pseudo Workflow:
+Input → Processing → Model → Output
+
+Practical Activity:
+Performed hands-on exercises and discussed real-world applications.
+
+Learning Outcome:
+Developed understanding of Linear Regression and Introduction to Neural Networks and its role in Generative AI.
+
+TOOLS USED
+• Python
+• Google Colab
+• Visual Studio Code
+• ChatGPT/Hugging Face (where applicable)
