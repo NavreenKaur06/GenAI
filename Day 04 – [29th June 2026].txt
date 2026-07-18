@@ -1,0 +1,23 @@
+Day 4 – [29th June 2026]
+TOPICS COVERED (CONDITIONAL STATEMENTS IN PYTHON)
+Conditional statements allow decision making using if, if-else, elif and nested if.
+
+Example:
+if marks>=50:
+    print("Pass")
+else:
+    print("Fail")
+
+Pseudo Code
+Input Marks
+If marks>=90 Grade A
+Else If marks>=75 Grade B
+Else Grade C
+
+Practical Activity
+Created grade calculator and voting eligibility programs.
+
+TOOLS USED
+• Python
+• VS Code
+• Google Colab

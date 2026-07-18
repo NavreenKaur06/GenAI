@@ -1,0 +1,30 @@
+Day 3 – [26th June 2026]
+TOPICS COVERED (OPERATORS, INPUT/OUTPUT AND TYPE CONVERSION)
+Input and Output
+name=input("Enter Name")
+print(name)
+
+Arithmetic Operators
++, -, *, /, %, //, **
+
+Comparison Operators
+>, <, ==, !=
+
+Logical Operators
+and, or, not
+
+Type Casting
+num="25"
+print(int(num)+5)
+
+Pseudo Code
+Start
+Input Value
+Process
+Display Output
+End
+
+TOOLS USED
+• Python
+• Google Colab
+• VS Code

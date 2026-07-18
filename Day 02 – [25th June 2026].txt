@@ -1,0 +1,32 @@
+Day 2 – [25th June 2026]
+TOPICS COVERED (PYTHON INSTALLATION, VARIABLES AND DATA TYPES)
+Introduction to Python
+Python is a high-level programming language widely used in AI and Data Science.
+
+Example:
+print("Hello, Generative AI")
+
+Variables
+name="Navreen"
+age=21
+
+Common Data Types
+• int
+• float
+• str
+• bool
+• list
+• tuple
+• dictionary
+
+Type Conversion
+num="10"
+number=int(num)
+
+Practical Activity
+Created variables and displayed their data types using type().
+
+TOOLS USED
+• Python 3.x
+• Google Colab
+• Visual Studio Code
